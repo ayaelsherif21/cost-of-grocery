@@ -13,7 +13,7 @@ Copy the code into a Dart file (e.g., groceryCalculator.dart).
 
 Use the following command in your terminal:
 
-dart grocery_calculator.dart
+dart groceryCalculator.dart
 
 # Output
 
